@@ -13,4 +13,4 @@ Este projeto foi criado para aprender a implementar e executar testes unitários
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/Caio094/jest.git
+   git clone https://github.com/Caio094/Jest.git
