@@ -6,7 +6,7 @@ Este projeto é um exemplo de configuração e uso do Jest, um framework de test
 
 A estrutura do projeto é a seguinte:
 
-jest-testing-project/ ├── src/ │ ├── calculadora.js │ └── ePalindromo.js ├── tests/ │ ├── calculadora.test.js │ └── ePalindromo.test.js ├── package.json └── jest.config.js (opcional) 
+  src/ │ ├── calculadora.js │ └── ePalindromo.js ├── tests/ │ ├── calculadora.test.js │ └── ePalindromo.test.js ├── package.json └── jest.config.js (opcional) 
 
 - **`src/`**: Contém os arquivos de código-fonte.
   - `calculadora.js`: Implementação da calculadora.
